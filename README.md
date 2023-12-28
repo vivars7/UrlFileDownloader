@@ -44,3 +44,7 @@ python download_script.py
 ```
 
 Ensure that the `url.txt` file is in the same directory as the script or provide the correct path to it in the script.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
